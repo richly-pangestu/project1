@@ -17,6 +17,7 @@
     "@commitlint/cli": "^19.5.0",
     "@commitlint/config-conventional": "^19.5.0",
     "@prisma/client": "^5.19.1",
+    "@supabase/supabase-js": "^2.45.4",
     "@types/node": "^22.5.5",
     "@types/react": "^18.3.7",
     "axios": "^1.7.7",
