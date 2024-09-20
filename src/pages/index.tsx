@@ -9,6 +9,7 @@ import EventsSection from '@/components/eventSection';
 import FeaturedEventsSection from '@/components/featuredEvents';
 import Testimonials from '@/components/testimonials';
 import CallToAction from '@/components/callToAction';
+import CreateEventForm from '@/components/CreateEventForm';
 
 const LandingPage: React.FC = () => {
   return (
@@ -25,6 +26,7 @@ const LandingPage: React.FC = () => {
         <HowItWorks />
         <EventsSection />
         <FeaturedEventsSection />
+        <CreateEventForm />
         <Testimonials />
         <CallToAction />
         
